@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IronApp", "IronApp\IronApp.csproj", "{A29C7232-ECEB-429B-8880-546F56DF2DD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A29C7232-ECEB-429B-8880-546F56DF2DD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A29C7232-ECEB-429B-8880-546F56DF2DD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A29C7232-ECEB-429B-8880-546F56DF2DD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A29C7232-ECEB-429B-8880-546F56DF2DD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9800ACAD-07BB-4C49-802A-78ABB49677D2}
+	EndGlobalSection
+EndGlobal
